@@ -1,1 +1,1 @@
-#VI(M) BASIC COMMANDS @
+VI

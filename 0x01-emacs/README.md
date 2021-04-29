@@ -1,1 +1,1 @@
-#EMACS COMMANDS @
+emacs
